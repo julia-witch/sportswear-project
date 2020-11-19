@@ -95,6 +95,10 @@ a {text-decoration: none;
     line-height: 1;
 }
 
+.promo_banner_link:hover {
+    color: #e4c4c0;
+}
+
 .promo_banner_link {
     text-decoration: underline;
 }
@@ -140,7 +144,7 @@ a {text-decoration: none;
     text-transform: uppercase;
     background-color: #fff;
 }
-.button_active {
+.modal_button:hover {
     background-color: #e4c4c0;
 }
 
