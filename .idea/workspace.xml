@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e31a116-c5d9-4e1a-98ee-eb64d8035b7d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/img/main-image_1686x708.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/img/main-image_1686x708.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/img/main-image_1686x708.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
       <workItem from="1605694291082" duration="186000" />
       <workItem from="1605694964541" duration="2804000" />
       <workItem from="1605703323867" duration="2503000" />
-      <workItem from="1605770524029" duration="2996000" />
+      <workItem from="1605770524029" duration="10576000" />
     </task>
     <servers />
   </component>
@@ -68,6 +68,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="594" y="225" key="#Inspections" timestamp="1605780210338">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="594" y="225" key="#Inspections/0.0.1920.1080@0.0.1920.1080" timestamp="1605780210338" />
     <state x="469" y="179" key="SettingsEditor" timestamp="1605703301671">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
