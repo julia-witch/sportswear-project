@@ -2,31 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6e31a116-c5d9-4e1a-98ee-eb64d8035b7d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/img/main-image_1686x708.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/bootstrap-reboot.min.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/1589790673.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/1590054995.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/1590145097.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/1590507615.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest-Taco-Green-Spray-480x0-c-default.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest-Zucca-20-Swamped-480x0-c-default.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest_FW2021_Kids_16-600x800-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest_FW2021_Men_18-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest_FW2021_Men_82-1-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest_FW2021_Women_25-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/Protest_FW2021_Women_37-475x633-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/andri-4-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/camille-4-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/dive-20-2-1-400x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/fudge-20-2-1-400x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/look_411885-1400x0-c-default.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/ozzy-20-2-1-400x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/rouge-blanc-bleu-men-homepage-600x800-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/settings.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/taco2-20-2-1-400x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/veroniqi-440x0-c-default.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/img/wintersport-400x0-c-default.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -46,20 +24,25 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1kPdPuL6SP66urXcT455nCkJKFy" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="reference.idesettings.emmet" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -72,17 +55,22 @@
       <updated>1605606141225</updated>
       <workItem from="1605606142755" duration="5322000" />
       <workItem from="1605694291082" duration="186000" />
-      <workItem from="1605694964541" duration="2129000" />
+      <workItem from="1605694964541" duration="2804000" />
+      <workItem from="1605703323867" duration="2503000" />
+      <workItem from="1605770524029" duration="2996000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="469" y="179" key="SettingsEditor" timestamp="1605607482743">
+    <state x="469" y="179" key="SettingsEditor" timestamp="1605703301671">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605607482743" />
+    <state x="469" y="179" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1605703301671" />
   </component>
 </project>

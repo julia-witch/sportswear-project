@@ -5,7 +5,7 @@
     font-weight: 200;
     line-height: 1.5;
     color: #213875;
-    background-color: #fff;
+    /*background-color: #fff;*/
 }
 
 body {
@@ -22,12 +22,15 @@ a {text-decoration: none;
 }
 
 .container {
+    overflow:hidden;
+    width: 1700px;
     margin: 0 auto;
     padding: 0;
 }
 
 .header {
     width: 100%;
+    margin-top: 20px;
     min-height: 60px;
     display: flex;
     flex-direction: row;
@@ -55,4 +58,56 @@ a {text-decoration: none;
 .logo-horisont {
     width: 92px;
     height: 17px;
+}
+.promo {
+    width: 100%;
+    height: 708px;
+    position: relative;
+    background-image: url("../img/main-image_1686x708.jpg" );
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.promo_banner {
+    width: 370px;
+    height: 200px;
+    position: absolute;
+    top: 200px;
+    left: 74px;
+    padding: 9px 12px 10px 17px;
+    background-color: rgba(33, 56, 117, 0.65);
+}
+
+
+.promo_banner_text {
+    margin: 0;
+    font-size: 68px;
+    font-weight: 500;
+    text-align: left;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.promo_banner_descript, .promo_banner_link {
+    margin: 0;
+    font-size: 28px;
+    font-weight: 200;
+    text-align: left;
+    color: #ffffff;
+    line-height: 1;
+}
+
+.promo_banner_link {
+    text-decoration: underline;
+}
+
+.promo_modal {
+    position: absolute;
+    width: 300px;
+    height: 230px;
+    top: 18px;
+    right: 30px;
+    padding: 30px;
+    border: solid 1px #dee1ea;
+    background-color: #ffffff;
 }
